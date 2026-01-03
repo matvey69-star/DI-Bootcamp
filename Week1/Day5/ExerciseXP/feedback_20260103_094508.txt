@@ -1,0 +1,10 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week1/Day5/ExerciseXP/ExerciseXP.py
+suggestions for improvement:
+- In Exercise 4, disney_users_C is not correctly sorting alphabetically and mapping to indices as requested in the instructions. Instead, it groups names by their first letter. You should sort the list `users` before creating the dictionary to meet the requirement.
+- In Exercise 3, the bonus part overrides the number_stores key with the value in more_on_zara. You may want to check which value is used in the bonus section.
+Brief justification:
+- correctness: The code correctly implements the dictionary creation, loops, and conditionals as outlined in the chapter and exercises. Exercise 1-3 meet the requirements. However, Exercise 4 disney_users_C did not provide the right output, so a deduction was made.
+- readability: The code is well-formatted and easy to understand, with clear variable names and comments.
+- performance: The code uses efficient methods for dictionary creation and manipulation, such as `zip` and dictionary comprehensions. No performance bottlenecks are apparent.
+- security: The code does not involve any external inputs or sensitive operations, so security risks are minimal. The use of `input()` in the bonus section of exercise 2 should be handled carefully in production environments to avoid potential vulnerabilities, but this is outside the scope of the current task.
+
