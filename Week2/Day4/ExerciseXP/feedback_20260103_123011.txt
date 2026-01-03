@@ -1,0 +1,7 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week2/Day4/ExerciseXP/ExerciseXP.py
+Brief justification:
+- correctness: The code fully implements the Tic Tac Toe game as described in the chapter content and instructions. It correctly handles player input, displays the board, checks for a win, and checks for a tie. The game logic is accurate, and the code addresses all the requirements outlined in the prompt.
+- readability: The code is well-structured and easy to read. The functions are clearly defined and have descriptive names. Comments are used effectively to explain the purpose of different sections of the code. The code adheres to good coding practices, making it easy to understand and maintain.
+- performance: The code performs efficiently for the scale of the Tic Tac Toe game. There are no performance bottlenecks, and the game runs smoothly. The algorithms used for checking win and tie conditions are appropriate for the game's size.
+- security: The code does not involve any external input or data, so there are no significant security concerns. The input validation prevents basic errors, further enhancing the code's reliability.
+
