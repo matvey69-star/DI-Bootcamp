@@ -1,3 +1,4 @@
+
 #Exercise 1: What Are You Learning?
 def display_message():
     return "I am learning about functions in Python."
@@ -83,3 +84,4 @@ def main():
         print("It's really hot! Stay cool.")
 
 main()
+
