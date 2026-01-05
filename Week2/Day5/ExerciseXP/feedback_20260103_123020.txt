@@ -1,0 +1,11 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week2/Day5/ExerciseXP/ExercisesXP.py
+suggestions for improvement:
+- Consider adding docstrings to your classes and methods to improve readability and provide more context on their purpose.
+- In the `Zoo` class, you could improve the structure by sorting the animals right after adding them.
+- For the bonus in exercise 4 - add *args to the add_animal to allow for multiple additions
+Brief justification:
+- correctness: The code accurately implements all the instructions provided in the chapter content, including creating classes, instantiating objects, defining methods, and using attributes. Each exercise's goal is successfully achieved, and all steps are followed precisely. For example, Exercise 1 correctly creates `Cat` objects, finds the oldest, and prints the details. Exercise 2 accurately creates a `Dog` class with methods for barking and jumping. Exercise 3 accurately makes a `Song` class and sings the song. The `Zoo` class in Exercise 4 is well-implemented, correctly adding, displaying, selling, sorting, and grouping animals as per the instructions.
+- readability: The code is well-structured and uses meaningful variable names, making it easy to understand. The use of comments to separate steps within each exercise also enhances readability. Only minor improvements could be made with docstrings.
+- performance: The code demonstrates good performance practices. The algorithms used are efficient for the given tasks, and there are no obvious performance bottlenecks. The sorting and grouping in the Zoo exercise is adequate.
+- security: The code does not involve any external input or potentially vulnerable operations, so security risks are minimal. The code is self-contained and does not interact with any external resources.
+

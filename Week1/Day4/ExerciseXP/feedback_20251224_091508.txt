@@ -1,0 +1,9 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week1/Day4/ExerciseXP/Exercises.py
+suggestions for improvement:
+- The provided code addresses a completely different problem than the one outlined in the chapter content.  It manipulates sets of numbers, while the exercises cover printing, variables, math, comparisons, if statements, and user input.
+Brief justification:
+- correctness: The code is entirely unrelated to the chapter's exercises, which focus on fundamental Python concepts like print statements, variables, mathematical operations, comparison operators, if statements, and user input. The code provided deals with sets, which is not covered in the given chapter content. Therefore, the correctness score is 0%.
+- readability: N/A
+- performance: N/A
+- security: N/A
+
