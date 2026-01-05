@@ -1,0 +1,16 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week3/Day4/ExerciseXP/ExercisesXP.py
+suggestions for improvement:
+- Could add comments to explain different sections of the code.
+- Could consolidate the imports at the top of the file for better organization.
+Correctness: 100%
+-----
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week3/Day4/ExerciseXP/func.py
+suggestions for improvement:
+- Skipping file (too many comments or blank lines).
+Correctness: N/A%
+-----
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week3/Day4/ExerciseXP/exercise_one.py
+suggestions for improvement:
+- Skipping file (too many comments or blank lines).
+Correctness: N/A%
+-----
