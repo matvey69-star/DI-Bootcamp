@@ -1,0 +1,10 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week1/Day5/DailyChallenge/DailyChallenge.py
+suggestions for improvement:
+- The code is well-structured and addresses both challenges effectively.
+- Consider consolidating the repeated code for the 'Affordable Items' challenge into a function for better maintainability and readability.
+Brief justification:
+- correctness: The code correctly implements both challenges as described in the chapter content. It accurately creates the letter index dictionary and identifies affordable items based on the given constraints. The example outputs also match the expected results.For challenge 1: stores the indices (number of the position) of each letter in a word provided by the user(input()). For challenge 2: creates a program that prints a list of items that can be purchased with a given amount of money.It covers also the different examples given.
+- readability: The code is generally readable, with clear variable names and comments. However, the repetition of the 'Affordable Items' logic could be improved by encapsulating it in a function.
+- performance: The code's performance is efficient for the given tasks. The loops and conditional statements are used appropriately, and the string manipulation is straightforward.
+- security: The code doesn't have any obvious security vulnerabilities. It correctly processes user input and handles data appropriately.
+

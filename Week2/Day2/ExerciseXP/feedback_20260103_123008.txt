@@ -1,0 +1,10 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week2/Day2/ExerciseXP/ExercisesXP.py
+suggestions for improvement:
+- Consider adding comments to delineate each exercise more clearly.
+- In Exercise 5, the prompt asks to call make_shirt() using keyword arguments. This is fulfilled in line 31 of the code.
+Brief justification:
+- correctness: All exercises are implemented correctly and produce the expected output, directly addressing the prompts in the chapter content. The bonus for Exercise 7 is also implemented correctly, including user input and month-based temperature generation.
+- readability: The code is generally well-formatted and easy to read. However, adding more comments, especially to separate the different exercises, would further improve readability. Variable names are descriptive.
+- performance: The code is efficient and performs well for the given tasks. No performance bottlenecks are apparent.
+- security: The code does not involve any user input (except in the bonus part of exercise 7), file operations, or network communication, so there are no significant security concerns. The user input in exercise 7 is handled appropriately using int() and input().
+

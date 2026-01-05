@@ -1,0 +1,11 @@
+URL: https://github.com/matvey69-star/DI-Bootcamp/blob/main/Week2/Day5/DailyChallenge/Dailychallenge.py
+suggestions for improvement:
+- The `get_animal_types` and `get_short_info` methods and the upgraded `add_animal` method using `**kwargs` should be inside the `Farm` class, not outside.
+- The formatting of the `get_info` method could be improved for better alignment as suggested in the instructions.
+- There are multiple methods called `add_animal`. Keep only one, the one using `**kwargs` or fix the bonus one.
+Brief justification:
+- correctness: The code correctly implements the basic Farm class with `__init__`, `add_animal`, and `get_info` methods as requested in Steps 1-5. However, the bonus tasks (Steps 6-8) are not correctly implemented as they are defined outside the class. Furthermore, the methods defined outside the class override the methods in the class.
+- readability: The code is generally readable, but the indentation of the `get_animal_types` and `get_short_info` methods is incorrect, as they are outside the class. Also, there are multiple `add_animal` methods which is confusing.
+- performance: The code's performance is acceptable for the given task. No significant performance bottlenecks are apparent.
+- security: The code doesn't have any apparent security vulnerabilities.
+
